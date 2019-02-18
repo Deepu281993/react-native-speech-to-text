@@ -9,7 +9,7 @@ import com.facebook.react.uimanager.ViewManager;
 
 public class SpeechToTextPackage implements ReactPackage {
 
-    @Override
+    //@Override
     public List<Class<? extends JavaScriptModule>> createJSModules() {
         return Collections.emptyList();
     }
